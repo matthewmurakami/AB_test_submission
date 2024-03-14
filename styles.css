@@ -88,6 +88,16 @@ p {
 }
 .image2{
   margin: 0 auto;
+  max-width: 20%;
+  height: auto;
+}
+.image3{
+  margin: 0 auto;
+  max-width: 60%;
+  height: auto;
+}
+.image-rec{
+  margin: 0 auto;
   max-width: 60%;
   height: auto;
 }
